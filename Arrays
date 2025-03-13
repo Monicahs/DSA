@@ -1,0 +1,9 @@
+
+Basics of Arrays
+Definition
+An array is a collection of items stored at contiguous memory locations. It can hold multiple values of the same type.
+
+Characteristics
+Fixed size
+Homogeneous elements
+Random access (O(1) time complexity)
